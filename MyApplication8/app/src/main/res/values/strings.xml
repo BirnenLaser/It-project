@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sprit Rechner</string>
+
+
+    <string-array name="fuels"> <!--    Spinner-wähloptions:-->
+        <item>Benzin</item>
+        <item>Diesel</item>
+        <item>Super E10</item>
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
